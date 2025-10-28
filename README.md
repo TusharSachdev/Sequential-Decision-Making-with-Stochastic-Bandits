@@ -4,8 +4,8 @@
 This project implements classical stochastic multi-armed bandit algorithms, including **epsilon-greedy** and **Upper Confidence Bound (UCB)**, to simulate sequential decision making in uncertain environments. We analyze cumulative rewards, explore-exploit trade-offs, and visualize algorithmic performance. Applications include finance, adaptive clinical trials, and sustainable resource allocation.
 
 **Research Alignment:**  
-- Sequential decision making and stochastic modeling (Guanting Chen)  
-- Stochastic processes and interacting particle systems (Vidyadhar G. Kulkarni)  
+- Sequential decision making and stochastic modeling 
+- Stochastic processes and interacting particle systems 
 - Machine learning applications in decision-making and optimization  
 
 ## Project Outcomes
